@@ -1,0 +1,17 @@
+PROFESSIONAL SUMMARY 
+Enthusiastic BSc IT student with a keen interest in Data Analytics.      ------ Currently building skills in data analysis, interpretation, and -  -----------------visualization, and eager to apply analytical thinking and technical - ----------knowledge to real world data-driven projects.
+EXPERIENCE 
+•
+Enthusiastic fresher seeking an Analyst role to leverage technical 
+skills and analytical capabilities in solving real-world business 
+problems.
+PROJECTS 
+
+Project Name: 
+MechonGo
+MechonGo - Location-Based Vehicle Service Web Application
+is a modern, responsive vehicle service web application  
+connecting vehicle owners with nearby machines. It enables quick and reliable  
+bike and car services-through-location-based-service-discovery. The platform  
+offers organized service categories like repairs, towing, engine work,  
+electrical-services,-and-accessories. Users and mechanics can 
